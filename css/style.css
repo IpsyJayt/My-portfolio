@@ -41,24 +41,23 @@ nav>ul>li>a:hover{
 
 /* style the image and name section */
 
-.image-name{
-    display: flex;
-    justify-content: space-around;
+.image-name{   
     color: white;
+    margin-left: 30%;
 }
 .image-name>img{
     margin-top: -7.5%;
 }
 .image-name>p{
     margin-top: 6%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 }
-#profile-pic{
-    margin-top: 6%;
-}
+
 
 /* ABOUT ME */
 .about{
+    margin-top: 5%;
     color: white;
     font-size: larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -85,6 +84,18 @@ nav>ul>li>a:hover{
 /* PROJECTS */
 .projects{
     color: white;
+    font-family: fantasy;
+    font-size: larger;
+        
+}
+.finance, .streetfood, .photography{
+    
+}
+
+.projects>h2{
+    text-align: center;
+    padding: 10px;
+    
 }
 
 /* CONTACT */
