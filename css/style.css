@@ -77,9 +77,6 @@ nav>ul>li>a:hover{
     font-size: larger;
         
 }
-.finance, .streetfood, .photography{
-    
-}
 
 .projects>h2{
     text-align: center;
@@ -90,4 +87,6 @@ nav>ul>li>a:hover{
 /* CONTACT */
 .contact{
     color: white;
+    text-align: center;
+    
 }
