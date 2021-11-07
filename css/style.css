@@ -62,24 +62,13 @@ nav>ul>li>a:hover{
     font-size: larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.background{
-    float: left;
+.background, .hobbies, .skills{
+    
     border:solid 2px white;
     padding: 15px;
     margin: 5px;
 }
-.hobbies{
-    float: left;
-    border: 2px solid white;
-    padding: 15px;
-    margin: 5px;
-}
-.skills{
-    float: left;
-    border: 2px solid white;
-    padding: 15px;
-    margin: 5px;
-}
+
 
 /* PROJECTS */
 .projects{
