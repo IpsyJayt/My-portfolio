@@ -53,6 +53,9 @@ nav>ul>li>a:hover{
     margin-top: 6%;
 
 }
+#profile-pic{
+    margin-top: 6%;
+}
 
 /* ABOUT ME */
 .about{
@@ -60,6 +63,7 @@ nav>ul>li>a:hover{
     font-size: larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
 
 /* PROJECTS */
 .projects{
