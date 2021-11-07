@@ -60,3 +60,13 @@ nav>ul>li>a:hover{
     font-size: larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+/* PROJECTS */
+.projects{
+    color: white;
+}
+
+/* CONTACT */
+.contact{
+    color: white;
+}
