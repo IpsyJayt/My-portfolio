@@ -21,7 +21,7 @@ nav,h1{
 nav>ul>li{
     display: inline-block;
     padding: 20px;
-    box-shadow: 0 0 10px rgb(16, 16, 29);
+    /* box-shadow: 0 0 10px rgb(16, 16, 29); */
     text-transform: uppercase;
     background-color: rgb(45, 32, 59);
 }
